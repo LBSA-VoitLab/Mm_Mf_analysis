@@ -9,4 +9,4 @@ Consists of additional material for the manuscript.
 * A
 * B
 
-## Links for packagess
+## Links for packages
