@@ -1,0 +1,69 @@
+Module.ID	Module.functional.association.title	Disease.Activity.Up..50.	Disease.Activity.Down..50.	Top.Literature.Lab.Annotations	Top.matched.pathway.in.KEGG	Top.GOTERM.Biological.Processes
+M15.16	Antigen presentation		B-Cell Deficiency, SOJIA, Staph, Burkholderia	Dendritic Cells/Dendritic Cells/Antigen-Presenting Cells		positive regulation of peptidase activity
+M12.8	B-cell		Influenza, HIV, B-Cell Deficiency, TB, SOJIA, Pregnancy, Staph, Burkholderia	Antibodies, Monoclonal, Murine-Derived/Antigens, CD20/Antibodies, Monoclonal, Murine-Derived	B cell receptor signaling pathway	B cell activation
+M13.18	B-cell	MS	Pregnancy, Staph, Burkholderia	Environmental Pollutants/Toxic Actions/Lung Neoplasms	Spliceosome	RNA processing
+M13.27	B-cell	MS	Kawasaki, TB, SOJIA, Pregnancy, Staph, Burkholderia	Lymphocyte Specific Protein Tyrosine Kinase p56(lck)/ZAP-70 Protein-Tyrosine Kinase/LCK	Primary immunodeficiency	positive regulation of immune system process
+M15.58	B-cell			Sulfur Compounds/Gene Expression Regulation, Enzymologic/Biomarkers, Tumor		molting cycle process
+M16.12	B-cell			Genome/Mutation/Genome Components		protein localization
+M12.15	Cell cycle	HIV, SLE, Kawasaki		Topoisomerase Inhibitors/ADP/Mitoxantrone		mitosis
+M13.32	Cell Cycle	HIV, RSV, SLE, Kawasaki		Aurora Kinase/Cyclin A2/Cyclin-Dependent Kinase Inhibitor p21	Cell cycle	mitotic cell cycle
+M15.110	Cell Cycle	MS, HIV, RSV, SLE		Polo-like Kinase/Protein Sorting Signals/Nuclear Localization Signals	Oocyte meiosis	cell cycle
+M16.60	Cell Cycle	HIV, RSV		Cyclin B1/Cyclin B/Maturation-Promoting Factor	Oocyte meiosis	mitosis
+M16.92	Cell Cycle	HIV, RSV, SLE		Aurora Kinases/Aurora Kinase/Nucleic Acid Synthesis Inhibitors	DNA replication	DNA metabolic process
+M3.1	Cell cycle	SLE	RSV	Signs and Symptoms/Homeostasis/Link	Cytokine-cytokine receptor interaction	DNA metabolic process
+M16.30	Complement	HIV		Capsid/Costimulatory and Inhibitory T-Cell Receptors/Capsid Proteins	Cell adhesion molecules (CAMs)	immune response
+M13.16	Cytokines/chemokines	Staph, Burkholderia, SOJIA, Influenza, TB		Cryoprotective Agents/Nicotinic Acids/Glycerol	Starch and sucrose metabolism	glucan catabolic process
+M14.82	Cytokines/chemokines	Staph		Rhombencephalon/C-KIT/Brain Stem		regulation of transcription from RNA polymerase II promoter
+M15.84	Cytokines/chemokines	Staph, Burkholderia, SOJIA, Influenza, SLE, Kawasaki		MAP Kinase Signaling System/MAP Kinase Signaling System/MAP Kinase Signaling System		protein kinase cascade
+M16.80	Cytokines/chemokines	Staph, Burkholderia		Learning Disorders/Learning Disorders/Learning Disorders		epidermal growth factor receptor signaling pathway
+M13.21	Cytotoxic lymphocytes	HIV	Kawasaki, Staph, Burkholderia	Anti-Infective Agents/Cells/Antiviral Agents	Cytokine-cytokine receptor interaction	cellular defense response
+M9.1	Cytotoxic lymphocytes	HIV	Kawasaki, Staph, Burkholderia	Cytotoxins/Granzyme A/Granzymes	Natural killer cell mediated cytotoxicity	cellular defense response
+M11.3	Erythrocytes	Transplant, Melanoma	COPD, MS, HIV	Erythroid Cells/Erythroid Precursor Cells/Erythroid Precursor Cells		
+M12.11	Erythrocytes	Staph, SOJIA, RSV, Transplant, Melanoma		Oxidoreductases Acting on Aldehyde or Oxo Group Donors/Proto-Oncogene Proteins c-myc/Oncogene Proteins, Viral		hexose metabolic process
+M13.30	Erythrocytes	RSV, Transplant, Melanoma	HIV	Biotransformation/Biotransformation/Gases		oxygen transport
+M14.53	Erythrocytes	Staph, RSV, Transplant, Melanoma	HIV	Megakaryocyte-Erythroid Progenitor Cells/Megakaryocyte-Erythroid Progenitor Cells/Erythroid Precursor Cells	Amyotrophic lateral sclerosis (ALS)	response to hormone stimulus
+M15.100	Erythrocytes	Staph, RSV, Transplant, Melanoma		Fetus/Pregnancy Complications/Gestational Age		
+M15.53	Erythrocytes	Transplant, Melanoma		Erythrocytes/Lysine/Erythrocytes		positive regulation of molecular function
+M15.74	Erythrocytes	RSV, Transplant, Melanoma	COPD, HIV	Metabolic Networks and Pathways/Furans/Mutagenesis, Insertional		positive regulation of transcription
+M9.2	Erythrocytes	Staph, RSV, Transplant, Melanoma, Pregnancy	HIV	Erythrocyte Membrane/Glycophorin/Erythrocyte Membrane	Porphyrin and chlorophyll metabolism	erythrocyte differentiation
+M13.13	Gene Transcription	MS, HIV	Pregnancy, Staph, Burkholderia	Heterogeneous-Nuclear Ribonucleoproteins/RNA Recognition Motif Proteins/Untranslated Regions	Oxidative phosphorylation	RNA processing
+M13.2	Gene Transcription	MS	B-Cell Deficiency, Pregnancy, Staph, Burkholderia	DNA/Methylation/DNA	Spliceosome	RNA processing
+M13.6	Gene Transcription	MS	B-Cell Deficiency, Pregnancy, Staph, Burkholderia	Apoptosis/Cyclin D1/Amino Acids, Neutral	RNA degradation	RNA processing
+M14.67	Gene Transcription	HIV		Luciferases/Luciferases/Promoter Regions, Genetic		transcription
+M12.10	Inflammation	Staph, Burkholderia	HIV	Arachidonic Acids/Fatty Acids, Essential/Arachidonic Acid		regulation of cell morphogenesis
+M13.1	Inflammation	Staph, Burkholderia, SOJIA		Mitogen-Activated Protein Kinase 1/Mitogen-Activated Protein Kinase 3/ERK1	Acute myeloid leukemia	regulation of cell proliferation
+M13.12	Inflammation	Staph, Burkholderia, SOJIA, RSV, Influenza, SLE, TB, Kawasaki, B-Cell Deficiency		Receptors, Interleukin-18/Doxycycline/Tetracyclines	Systemic lupus erythematosus	response to wounding
+M13.22	Inflammation	Staph, Burkholderia, SOJIA, TB	MS	FMLP/N-Formylmethionine/N-Formylmethionine		response to bacterium
+M14.19	Inflammation	Staph, Burkholderia, Influenza		Genes, Immediate-Early/HEK293 Cells/HEK293 Cells		
+M14.48	Inflammation	Staph	HIV	Chloroquine/Chloroquine/Chloroquine	Lysosome	
+M14.50	Inflammation	Burkholderia, SOJIA	MS	Junctional Adhesion Molecules/Leucine/Leucine	Systemic lupus erythematosus	inflammatory response
+M15.109	Inflammation	Staph, Burkholderia, SOJIA, TB		Etanercept/Etanercept/Nicotinic acid		inflammatory response
+M15.113	Inflammation	Staph, Burkholderia, SOJIA, TB		Antirheumatic Agents/IL 1/Interleukin-1alpha	MAPK signaling pathway	intracellular signaling cascade
+M15.37	Inflammation	Staph, Burkholderia, SOJIA, TB		Free Radical Scavengers/Monokines/Cytosol		apoptosis
+M15.7	Inflammation			Leupeptins/Leupeptins/Glycoproteins	Dilated cardiomyopathy	intracellular transport
+M10.1	Interferon	HIV, Burkholderia, SOJIA, RSV, Influenza, SLE, TB, Transplant		RIG-I/Host-Pathogen Interactions/DEAD-box RNA Helicases	RIG-I-like receptor signaling pathway	response to virus
+M13.17	Interferon	HIV, Burkholderia, SOJIA, RSV, Influenza, SLE, TB		STAT2 Transcription Factor/NLR Proteins/Inflammatory Bowel Diseases		positive regulation of I-kappaB kinase/NF-kappaB cascade
+M15.127	Interferon	HIV, SOJIA, RSV, Influenza, SLE, TB, Transplant		2',5'-oligoadenylate/Orthomyxoviridae Infections/Double Stranded RNA		immune response
+M15.64	Interferon	HIV, Burkholderia, SOJIA, Influenza, SLE, TB		Tripartite Motif Proteins/Systemic Lupus Erythematosus/Thymine		immune response
+M15.86	Interferon	HIV, Burkholderia, SOJIA, RSV, Influenza, SLE, TB		Metallothionein/Cadmium/Cadmium		
+M16.52	Lymphocyte			Chromosomes, Human, 6-12 and X/Chromosomes, Human, 6-12 and X/Carcinogenesis		negative regulation of macromolecule biosynthetic process
+M12.2	Monocytes	MS, Staph, COPD		Acetaldehyde/Acetaldehyde/Aldehyde Dehydrogenase	Tryptophan metabolism	defense response
+M14.65	Monocytes	Staph, Burkholderia, SOJIA, RSV, TB		rab5 GTP-Binding Proteins/Chloride Channels/methionyl-leucyl-phenylalanine		defense response
+M15.61	Monocytes		Burkholderia	Amino Acid Motifs/Protein Isoforms/Galactosidases		regulation of angiogenesis
+M15.35	Neutrophil	Burkholderia		HLA-B Antigens/HLA-A Antigens/Protein Sorting Signals	Viral myocarditis	actin cytoskeleton organization
+M10.4	Neutrophil activation	HIV, Staph, Burkholderia, RSV, Transplant, Kawasaki, Pregnancy		Cathepsin G/Leukocyte Elastase/Pancreatic Elastase	Systemic lupus erythematosus	defense response to bacterium
+M12.13	Oxidative phosphorylation	MS, HIV, RSV	Pregnancy	Point Mutation/Mutation/Protein Conformation	Oxidative phosphorylation	generation of precursor metabolites and energy
+M10.3	Platelet	Staph, RSV	MS, HIV, Transplant	Adhesiveness/Cell Shape/Blood Platelets		
+M16.109	Platelet	Staph	MS, HIV	Cardiomyopathy, Dilated/Thiazines/Furans	Hypertrophic cardiomyopathy (HCM)	regulation of muscle contraction
+M16.64	Platelet/Prostaglandin	Staph	MS	Myosin Light Chains/Uterus/Phototransduction	Vascular smooth muscle contraction	regulation of muscle contraction
+M15.102	Prostanoids			Dioxygenases/Myelin Proteins/Oligodendroglia		myelination
+M8.2	Prostanoids	Staph, RSV	MS, HIV	Integrin beta3/Calmodulin-Binding Proteins/Platelet Glycoprotein GPIIb-IIIa Complex	ECM-receptor interaction	blood coagulation
+M15.55	Protein phosphorylation	SOJIA		Amino Acids, Peptides, and Proteins/Biotransformation/Biotransformation	Endometrial cancer	peptidyl-serine phosphorylation
+M10.2	Protein synthesis		MS	Hemoglobinopathies/Thalassemia/Globins	Ribosome	translational elongation
+M13.10	Protein synthesis	MS, HIV	Pregnancy, Burkholderia	Lead/Lead/Bacterial Proteins	Valine, leucine and isoleucine biosynthesis	translation
+M15.51	Protein Synthesis	MS	Influenza, Kawasaki, SOJIA, Pregnancy, Staph, Burkholderia	5' Untranslated Regions/5' Untranslated Regions/Shock	Ribosome	translational elongation
+M13.14	Proteolysis	MS, HIV	Pregnancy, Staph, Burkholderia	Piperidones/Protein Transport/Apoptosis	Proteasome	proteasomal protein catabolic process
+M12.6	T-cell		Kawasaki, TB, Transplant, Staph, Burkholderia	Protein Structure, Secondary/Pathological Conditions, Anatomical/SKP Cullin F-Box Protein Ligases		cell adhesion
+M16.3	T-cell			T-Lymphocytes/Lymphocytes/Lymphocytes	Primary immunodeficiency	lymphocyte activation
+M16.47	TNF			Cell Polarity/Cyclosporine/Cyclosporine	Apoptosis	cell adhesion
+M8.3	Type 1 Interferon	HIV, SOJIA, RSV, Influenza, SLE, TB, Transplant		Transcriptome/Transcriptome/Orthomyxoviridae Infections		immune response

@@ -1,0 +1,149 @@
+Module.ID	Module.functional.association.title	Disease.Activity.Up..50.	Disease.Activity.Down..50.	Top.Literature.Lab.Annotations	Top.matched.pathway.in.KEGG	Top.GOTERM.Biological.Processes
+M12.1	TBD	MS	Kawasaki, B-Cell Deficiency, Pregnancy, Staph, Burkholderia	Mitochondria Apoptotic/Mitochondria/Cell Respiration		translation
+M12.12	TBD	MS, SOJIA, JDM		Peroxides/Oxidative Stress/Superoxide Dismutase	Proteasome	negative regulation of macromolecule metabolic process
+M12.14	TBD	SLE	RSV	Intestinal Neoplasms/Colonic Diseases/Colorectal Neoplasms		
+M13.15	TBD	Staph		Protein Domains/Protein Structural Elements/Protein Interaction Domains and Motifs	Endocytosis	intracellular signaling cascade
+M13.19	TBD	SOJIA	RSV, Transplant	Protein Domains/Protein Structural Elements/Phosphoinositide	Prostate cancer	regulation of transcription
+M13.23	TBD		Transplant, Burkholderia	Introns/RNA Splicing/RNA Splicing	Spliceosome	response to heat
+M13.24	TBD	MS	Pregnancy	Mutagenesis/Chromosomes, Human/Chromosomes, Mammalian	Glycosylphosphatidylinositol(GPI)-anchor biosynthesis	generation of precursor metabolites and energy
+M13.25	TBD	SOJIA		Protein Interaction Maps/Lysine Acetyltransferases/Histone Acetyltransferases	RNA degradation	cellular macromolecule catabolic process
+M13.26	TBD	RSV, Transplant, Melanoma	HIV	Specialty Uses of Chemicals/Glutathione/Glutathione	Glutathione metabolism	positive regulation of cellular catabolic process
+M13.29	TBD	MS	SOJIA, Pregnancy, Burkholderia	Nucleic Acid Hybridization/Paraffin/Breast Cancer		positive regulation of nitrogen compound metabolic process
+M13.3	TBD	Staph, Burkholderia, SOJIA, RSV		Arsenicals/Starch/Arsenicals	Dorso-ventral axis formation	hexose metabolic process
+M13.31	TBD	MS, SOJIA, JDM		Anti-HIV Agents/Anti-Retroviral Agents/Neoplasms, Vascular Tissue	Leukocyte transendothelial migration	blood vessel morphogenesis
+M13.4	TBD	MS	SOJIA, Pregnancy, Staph, Burkholderia	Carcinoma, Hepatocellular/Adenine/Fluorescence Resonance Energy Transfer		RNA processing
+M13.5	TBD			beta-Galactosidase/Galactosidases/Cytoplasm	Lysosome	cell division
+M13.7	TBD	Burkholderia, SOJIA	Transplant	RNA Interference/Gene Silencing/RNA, Small Interfering	Toll-like receptor signaling pathway	phosphorus metabolic process
+M14.1	TBD			Protein Isoforms/Zinc/Zinc		glycerolipid biosynthetic process
+M14.10	TBD	MS		Naphthalenes/Catalytic Domain/SH-SY5Y Cells	Purine metabolism	organic alcohol transport
+M14.11	TBD			Acids, Carbocyclic/Sesquiterpenes/Cyclohexane	Proteasome	negative regulation of ubiquitin-protein ligase activity during mitotic cell cycle
+M14.14	TBD		Pregnancy, Transplant	Cell Extracts/Hot Temperature/HSP70 Heat-Shock Proteins	Spliceosome	mRNA metabolic process
+M14.17	TBD		B-Cell Deficiency, Pregnancy, Transplant, Burkholderia	Islands/Ribonucleases/Gene Silencing		
+M14.22	TBD	Staph		Giant Cells/Neoplasms, Vascular Tissue/Locomotion	Renal cell carcinoma	protein amino acid phosphorylation
+M14.23	TBD	MS, HIV	Staph, Burkholderia	Genetic Phenomena/DNA/Heredity	Purine metabolism	
+M14.27	TBD	MS, HIV, SOJIA		Reverse Transcription/Reverse Transcription/Paxillin	Glycolysis / Gluconeogenesis	negative regulation of catalytic activity
+M14.29	TBD		Transplant	Genetic Code/Chemical Precipitation/geldanamycin		intracellular transport
+M14.38	TBD	Staph	HIV	Schizophrenia/Peptide GPCRs/GPCRs-Other		macromolecular complex assembly
+M14.39	TBD	Staph, RSV, TB, Kawasaki	MS	beta-Galactosidase/Galactosidases/S Phase		nucleosome assembly
+M14.40	TBD			Succinate Dehydrogenase/Electron Transport Complex II/Cell Respiration		negative regulation of transcription from RNA polymerase II promoter
+M14.43	TBD		RSV, Pregnancy, Burkholderia	Agar/Agar/Immunoproliferative Disorders		
+M14.45	TBD	MS	Pregnancy, Staph, Burkholderia	Biotransformation/Biotransformation/Amino Acids, Peptides, and Proteins		cell redox homeostasis
+M14.59	TBD	Staph	MS, HIV	Thromboplastin/Thromboplastin/Platelet Membrane Glycoproteins		response to wounding
+M14.6	TBD		TB	Protein Synthesis Inhibitors/Vero Cells/Glycoside Hydrolases		chromosome condensation
+M14.7	TBD	Staph, Burkholderia, SOJIA, RSV, Influenza		Amino Acid Substitution/Splenomegaly/Placental Iron Metabolism		protein import
+M14.74	TBD	Staph, Burkholderia, SOJIA, Influenza, TB		phorbol/Phorbol Esters/Phorbol Esters	Fc gamma R-mediated phagocytosis	
+M14.9	TBD	Staph		Colorectal Neoplasms/Colonic Diseases/Intestinal Neoplasms	MAPK signaling pathway	response to abiotic stimulus
+M15.1	TBD		Burkholderia	Genomic Instability/Genomic Instability/Jurkat Cells	T cell receptor signaling pathway	di-, tri-valent inorganic cation transport
+M15.10	TBD			Alternative Splicing/Alternative Splicing/Alternative Splicing		regulation of protein kinase cascade
+M15.101	TBD		SOJIA, Staph, Burkholderia	Genetic Phenomena/Heredity/Amino Acids, Peptides, and Proteins		transcription
+M15.106	TBD			Buffers/Cell Nucleus/Cystic Fibrosis Transmembrane Conductance Regulator		response to radiation
+M15.11	TBD			Starvation/Proteome/TOR Serine-Threonine Kinases		regulation of protein modification process
+M15.111	TBD	Staph, Burkholderia		Docosahexaenoic Acids/Docosahexaenoic Acids/Fatty Acids, Omega-3		regulation of transcription from RNA polymerase II promoter
+M15.112	TBD			Karyopherins/Nucleocytoplasmic Transport Proteins/Biological Transport, Active		protein import into nucleus, docking
+M15.115	TBD		Burkholderia	Receptors, HIV/Receptors, Virus/SMAD2/SMAD3		
+M15.118	TBD	RSV		Amino Acids, Peptides, and Proteins/Dimerization/Proteins		
+M15.12	TBD	Burkholderia		Adenosine/Adenosine/Adenosine		positive regulation of cell communication
+M15.120	TBD		Staph	Amino Acids, Peptides, and Proteins/Proteins/Biotransformation		transcription
+M15.124	TBD		RSV, Transplant	Piperidones/Peripheral Nerves/Piperidines		transcription
+M15.13	TBD	Staph, Burkholderia		Dimerization/Dimerization/Proto-Oncogene Proteins c-myc	Phosphatidylinositol signaling system	ER to Golgi vesicle-mediated transport
+M15.14	TBD	Burkholderia		Phosphatidylcholines/Cell Differentiation/Phosphatidylcholines	Glycosphingolipid biosynthesis	response to methylmercury
+M15.17	TBD			Calcium-Binding Proteins/MCF7 Cells/MCF-7 Cells		embryonic skeletal system development
+M15.19	TBD			Endoplasmic Reticulum/Reticulum/Protein Folding	Insulin signaling pathway	protein transport
+M15.20	TBD			Galactose/Recombinant Fusion Proteins/Proteasome Endopeptidase Complex	Galactose metabolism	cytosol to ER transport
+M15.22	TBD		Staph	Hydrocarbons, Cyclic/Family/Biochemical Phenomena		RNA processing
+M15.23	TBD	MS	SOJIA, Pregnancy, Burkholderia	Biotransformation/Biotransformation/Cell Survival	Ribosome	nucleotide biosynthetic process
+M15.24	TBD	Staph, Burkholderia, SOJIA		Methotrexate/Nucleic Acid Synthesis Inhibitors/Drive	MAPK signaling pathway	phosphorylation
+M15.25	TBD			Glutathione Transferase/Alkyl and Aryl Transferases/Glutathione	Glutathione metabolism	
+M15.26	TBD	Staph, Burkholderia, SOJIA		Proline/Proline/Hypoxia		leukocyte activation
+M15.27	TBD			Basal Transcription Factors/G2/M Checkpoint/MCF-7 Cells	Amino sugar and nucleotide sugar metabolism	carbohydrate biosynthetic process
+M15.3	TBD	MS	Burkholderia	Transcriptome/Transcriptome/Plant Structures		oxidation reduction
+M15.33	TBD		Pregnancy, Transplant, Staph, Burkholderia	Connective Tissue Diseases/Skin and Connective Tissue Diseases/Biomarkers	DNA replication	
+M15.36	TBD	MS, HIV		Biotransformation/Biotransformation/Acids		lipid biosynthetic process
+M15.43	TBD	Staph, Burkholderia, SOJIA, Influenza		Amyloidosis/Phototransduction/Tubulin Modulators		cellular macromolecular complex assembly
+M15.52	TBD		B-Cell Deficiency, Staph, Burkholderia	Biotransformation/Biotransformation/Amino Acids, Peptides, and Proteins		
+M15.6	TBD			Cyclin-Dependent Kinase Inhibitor Proteins/Proline-Directed Protein Kinases/Cyclin	Ubiquitin mediated proteolysis	modification-dependent macromolecule catabolic process
+M15.62	TBD			Connective Tissue Cells/Biotransformation/Biotransformation		
+M15.63	TBD			Specialty Uses of Chemicals/Manganese/Agar	Proteasome	negative regulation of ubiquitin-protein ligase activity during mitotic cell cycle
+M15.65	TBD	MS	Burkholderia	Chemical Phenomena/Biochemical Phenomena/Genetic Phenomena		protein amino acid phosphorylation
+M15.66	TBD	Staph, Burkholderia		Endoribonucleases/Neurotoxins/Fused-Ring Compounds		retinoic acid metabolic process
+M15.67	TBD			Urea/Urea/Serum Globulins		protein amino acid lipidation
+M15.69	TBD			Heredity/Genetic Phenomena/Mutation		intracellular protein transport
+M15.71	TBD	MS, HIV		Amino Acids, Peptides, and Proteins/Biotransformation/Biotransformation	Endocytosis	DNA damage response, signal transduction by p53 class mediator
+M15.78	TBD	Staph, Burkholderia, SOJIA		Adjuvants, Immunologic/Blast Crisis/Leukemia, Myeloid	Hematopoietic cell lineage	
+M15.8	TBD	MS	Staph, Burkholderia	Cell Transformation, Neoplastic/Cell Transformation, Neoplastic/Monomeric GTP-Binding Proteins	Chemokine signaling pathway	protein transport
+M15.88	TBD			Physiological Phenomena/Affect/Heredity		cell death
+M15.89	TBD			Genetic Markers/Genetic Markers/Disease Susceptibility		ribosomal small subunit biogenesis
+M15.9	TBD		Staph	Prostaglandins/Reproductive Control Agents/Epithelial Cells		positive regulation of transcription
+M15.90	TBD	Burkholderia, SOJIA		Hypoxia/Von Hippel-Lindau Tumor Suppressor Protein/Renal Cell Carcinoma	mTOR signaling pathway	regulation of programmed cell death
+M15.91	TBD	MS	SOJIA, Burkholderia	Biotransformation/Biotransformation/Amino Acids, Peptides, and Proteins		oxidation reduction
+M15.98	TBD			Introns/Receptor-Like Protein Tyrosine Phosphatases/Id Signaling		regulation of transcription
+M16.1	TBD			Alkanes/p38 Mitogen-Activated Protein Kinases/Sulfur Acids	Epithelial cell signaling in Helicobacter pylori infection	regulation of leukocyte migration
+M16.10	TBD		Staph, Burkholderia	Nucleic Acid Hybridization/Epigenesis, Genetic/Neoplasms by Site		transcription
+M16.100	TBD	Burkholderia, SOJIA		Family/Gene Expression/Genetic Structures	B cell receptor signaling pathway	response to toxin
+M16.101	TBD	Staph, Burkholderia, SOJIA		Leukocyte Disorders/Renal Cell Carcinoma/Myeloproliferative Disorders		apoptosis
+M16.104	TBD			Cell Cycle/Interphase/Cell Cycle		antigen processing and presentation of endogenous peptide antigen
+M16.108	TBD			Epithelial Cells/Liver Diseases/Mononuclear Phagocyte System		
+M16.11	TBD			Hot Temperature/Kinesin/Dementia		intracellular transport
+M16.111	TBD		Staph	Dimerization/Dimerization/Urogenital System		rRNA processing
+M16.13	TBD			Colonic Diseases/Colorectal Neoplasms/Intestinal Neoplasms		regulation of growth
+M16.14	TBD		SOJIA	Transgenes/Intellectual Disability/Intellectual Disability		placenta development
+M16.15	TBD			Antibiotics, Antineoplastic/Serine/Threonine		response to cytokine stimulus
+M16.16	TBD			Orientation/Angiogenesis/Cell-Free System	Renal cell carcinoma	negative regulation of catalytic activity
+M16.17	TBD			Oligodendroglia/Oligodendroglia/Neuroglia		cell projection assembly
+M16.18	TBD			Hydrochloric Acid/Sleep/Hydrochloric Acid		histone H4-K5 acetylation
+M16.19	TBD			Trauma, Nervous System/Neoplasms, Connective and Soft Tissue/Erythrocytes	Axon guidance	Ras protein signal transduction
+M16.2	TBD			Antineoplastic Agents, Phytogenic/isoquinoline/Isoquinolines	TGF-beta signaling pathway	cell-matrix adhesion
+M16.20	TBD			Lung Diseases/Chronic Disease/Protein Isoforms		lipid transport
+M16.21	TBD			Orientation/Glycosides/Virulence	Amino sugar and nucleotide sugar metabolism	centrosome cycle
+M16.22	TBD	Burkholderia, SOJIA		Metamorphosis, Biological/Life Cycle Stages/Insulin	Drug metabolism	cellular amino acid derivative biosynthetic process
+M16.23	TBD			Minor Histocompatibility Antigens/Immediate-Early Proteins/Benzamides		chromosome organization
+M16.24	TBD			Polymorphism, Genetic/Jurkat Cells/Genotype	Wnt signaling pathway	histone H2A acetylation
+M16.26	TBD			Protein Interaction Maps/Gene Regulatory Networks/Tunicamycin	Neurotrophin signaling pathway	coenzyme metabolic process
+M16.27	TBD			Epithelial-Mesenchymal Transition/Cell Transdifferentiation/E-cadherin Signaling		hemopoiesis
+M16.28	TBD			Attention/Neoplasms, Neuroepithelial/Physiological Effects of Drugs		regulation of RNA metabolic process
+M16.29	TBD			Biotin/Biotin/Biotin		detection of external stimulus
+M16.31	TBD			Neuroectodermal Tumors, Primitive, Peripheral/Neuroectodermal Tumors, Primitive/Neuroblastoma		pigmentation
+M16.32	TBD			Reverse Transcription/Centromere/Reverse Transcription	Cysteine and methionine metabolism	chromatin assembly
+M16.34	TBD			Cyclic AMP-Dependent Protein Kinases/Cyclic Nucleotide-Regulated Protein Kinases/Erythrocytes		erythrocyte differentiation
+M16.35	TBD			Casein Kinases/Butyrates/Butyrates	Calcium signaling pathway	positive regulation of macromolecule metabolic process
+M16.36	TBD		Staph	Aldehyde Oxidoreductases/Oxidoreductases Acting on Aldehyde or Oxo Group Donors/DNA Damage	Valine, leucine and isoleucine degradation	regulation of developmental growth
+M16.37	TBD	Staph, Burkholderia		Chymotrypsin/Inheritance Patterns/Protease Inhibitors		regulation of cellular localization
+M16.38	TBD		TB	Tissues/Cardiovascular System/Oxides		muscle contraction
+M16.39	TBD			Limbic System/Biological Evolution/Nerve Tissue Proteins		palate development
+M16.4	TBD		Staph, Burkholderia	Cross-Linking Reagents/Pathological Conditions, Anatomical/Carcinoma, Non-Small-Cell Lung	Nucleotide excision repair	mitochondrion organization
+M16.40	TBD			Protein Structure, Tertiary/Sequence Homology, Amino Acid/Cell-Free System	Alzheimer's disease	generation of precursor metabolites and energy
+M16.42	TBD		Burkholderia	mRNA processing/Enzyme Activation/Enzyme Activation		chromosome organization
+M16.43	TBD			Genetic Predisposition to Disease/Glutathione Transferase/Disease Susceptibility	Cell adhesion molecules (CAMs)	cell adhesion
+M16.44	TBD	Staph, Burkholderia, SOJIA		Mitogen-Activated Protein Kinase Phosphatases/Dimerization/Dimerization		immune response
+M16.45	TBD		RSV, TB, Transplant, Burkholderia	Leukemia, Myeloid, Acute/Acute Myeloid Leukemia/Leukemia, Myeloid		protein import
+M16.46	TBD	HIV		Nuclear Localization Signals/Nuclear Localization Signals/Protein Sorting Signals		mRNA processing
+M16.48	TBD			Exons/Polycyclic Aromatic Hydrocarbons/Cell Physiological Phenomena	Pathways in cancer	cell surface receptor linked signal transduction
+M16.49	TBD			Chemokine Signaling/Chemokines/Chemotactic Factors	Starch and sucrose metabolism	negative regulation of cell proliferation
+M16.5	TBD			Platelet Amyloid/Alzheimer's Disease/Peptide Biosynthesis		T cell receptor signaling pathway
+M16.50	TBD			Cell Movement/Protein Folding/Locomotion		androgen receptor signaling pathway
+M16.51	TBD	Staph		Binding Sites/Gene Components/Base Sequence	Methane metabolism	macromolecular complex assembly
+M16.53	TBD			Genome/Mutation/Genes		positive regulation of neuron apoptosis
+M16.54	TBD			Genetic Phenomena/Chemical Phenomena/Biochemical Phenomena	Mismatch repair	cellular response to stress
+M16.57	TBD			Histone Deacetylases/Fibroblasts/Receptors, Antigen, B-Cell		tube development
+M16.6	TBD			Alleles/Haplotypes/Solubility	Chemokine signaling pathway	RNA export from nucleus
+M16.61	TBD	SOJIA		Glucocorticoid receptor/B Cell Survival/Trypanocidal Agents		phosphorus metabolic process
+M16.62	TBD	Burkholderia, SOJIA		Diamond/Membrane Microdomains/Dicarboxylic Acids	Systemic lupus erythematosus	cellular macromolecular complex assembly
+M16.63	TBD			Gene Deletion/RGS Proteins/RGS Proteins	Neurotrophin signaling pathway	regulation of phosphorus metabolic process
+M16.67	TBD	Staph, Burkholderia, SOJIA		Herpes Simplex/Chemokine CXCL5/Transplants	Graft-versus-host disease	immune response
+M16.68	TBD		Staph, Burkholderia	Protein Biosynthesis/Protein Biosynthesis/Peptide Biosynthesis	Asthma	immune effector process
+M16.70	TBD	Burkholderia, SOJIA		Gene Duplication/Leukemia, Promyelocytic, Acute/Leukemia, Myeloid, Acute	Cytokine-cytokine receptor interaction	inflammatory response
+M16.72	TBD			Oligodeoxyribonucleotides/Oligonucleotides/Polynucleotides	Metabolism of xenobiotics by cytochrome P450	ncRNA processing
+M16.76	TBD	Burkholderia		Complement Inactivator Proteins/Complement Inactivator Proteins/Alternative Complement	Dorso-ventral axis formation	humoral immune response
+M16.79	TBD	Staph, Burkholderia, SOJIA, Influenza		Reverse Transcription/Reverse Transcription/Cytochalasin D		actomyosin structure organization
+M16.8	TBD			Clathrin/Basal Transcription Factors/Cyclin-Dependent Kinases		protein transport
+M16.82	TBD			Biotransformation/Biotransformation/Amino Acids, Peptides, and Proteins		response to organic substance
+M16.84	TBD			Amino Acids/Organic Chemicals/Oxazoles		response to inorganic substance
+M16.85	TBD			Xanthine/Xanthine/Xanthine		glycerolipid metabolic process
+M16.9	TBD			Dexamethasone/RNA Interference/Steroids, Fluorinated	Pathogenic Escherichia coli infection	macromolecule catabolic process
+M16.91	TBD		SOJIA, Staph, Burkholderia	Multigene Family/Family/Caco-2 Cells		positive regulation of peptidyl-tyrosine phosphorylation
+M16.93	TBD			Biotransformation/Biotransformation/Amino Acids, Peptides, and Proteins		high-density lipoprotein particle remodeling
+M16.96	TBD	Staph, RSV, Transplant		Platelet Activating Factor/Lysophospholipase/Mucoproteins		defense response
+M16.97	TBD			Biotransformation/Biotransformation/Amino Acids, Peptides, and Proteins	MAPK signaling pathway	
+M16.98	TBD	Staph, Burkholderia, SOJIA		Osteoporosis/Tropoelastin/Elastin		cellular response to extracellular stimulus
+M16.99	TBD			DNA Primers/DNA Probes/DNA Primers	Antigen processing and presentation	
+M8.1	TBD	SLE	RSV, TB	Cyclic AMP/Cyclic AMP/Gastroenteritis	NOD-like receptor signaling pathway	transcription
